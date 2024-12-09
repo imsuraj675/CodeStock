@@ -6,7 +6,7 @@ These are fundamental algorithms and functions often used in competitive program
 
 ### 1. Array functions
 - [x] [Reverse an Array (copy)](Array_Functions/Reverse_an_Array)
-- [ ] Reverse an Array (in place)
+- [x] [Reverse an Array (in place)](Array_Functions/Reverse_an_Array_in_place)
 - [ ] Find Max-Min of Array
 - [ ] Prefix Array
 - [ ] Suffix Array
