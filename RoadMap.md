@@ -13,7 +13,7 @@ These are fundamental algorithms and functions often used in competitive program
 - [ ] Finding Mex of Array (Smallest Positive integer which is not present in array)
 - [ ] Print 2D Matrix
 - [ ] Binary Search
-- [ ] Upper bound (Binary Search)
+- [x] [Upper bound](Array_Functions/Upper_Bound)
 - [ ] Lower bound (Binary Search)
 - [ ] Generate all Permutation (n!)
 - [x] [Count occurrences of all elements](Array_Functions/Count_Occurence) 
