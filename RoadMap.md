@@ -31,9 +31,9 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [nthFibonacci](Number_Theory_Functions/nthFibonacci)
 - [ ] Prime Factorization
 - [ ] Get all Factors (return a Map)
-- [ ] GCD of 'a' and 'b' using Euclidean Algorithm
+- [x] [GCD of 'a' and 'b' using Euclidean Algorithm](Number_Theory_Functions/GCD_Using_Euclidean_Algorithm)
 - [ ] LCM of 'a' and 'b'
-- [ ] Binary Exponentiation (with modulus)
+- [x] [Binary Exponentiation (with modulus)](Number_Theory_Functions/Binary_exponentiation_(with_modulus))
 - [ ] Get Factorial upto 'n' (with modulus) (return an array)
 - [ ] Get Inverse Factorial upto 'n' (with modulus) (return an array)
 - [ ] nPr (Permutation with modulus)
@@ -43,7 +43,7 @@ These are fundamental algorithms and functions often used in competitive program
 ### 4. Graph Algorithms
 - [x] [Depth-First Search (DFS) (Recursive)](Graph_Functions/DFS_Recursion)
 - [x] [Breadth-First Search (BFS)](Graph_Functions/BFS_Recursion)
-- [ ] Depth-First Search (DFS) (Iterative)
+- [x] [Depth-First Search (DFS) (Iterative)](Graph_Functions/DFS_Iterative)
 - [ ] Dijkstra's Shortest Path Algorithm
 - [ ] Bellman-Ford Algorithm
 - [x] [Kruskal’s Algorithm](Graph_Functions/Kruskal_s)
