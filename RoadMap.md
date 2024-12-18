@@ -8,7 +8,7 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [Reverse an Array (copy)](Array_Functions/Reverse_an_Array)
 - [x] [Reverse an Array (in place)](Array_Functions/Reversing_an_array(in_place))
 - [x] [Find Max-Min of Array](Array_Functions/Min_Max_Functions)
-- [ ] Prefix Array
+- [x] [Prefix Array](Array_Functions/Prefix_Sum)
 - [ ] Suffix Array
 - [ ] Finding Mex of Array (Smallest Positive integer which is not present in array)
 - [x] [Print 2D Matrix](Array_Functions/Print_2D_Matrix)
@@ -43,7 +43,7 @@ These are fundamental algorithms and functions often used in competitive program
 ### 4. Graph Algorithms
 - [x] [Depth-First Search (DFS) (Recursive)](Graph_Functions/DFS_Recursion)
 - [x] [Breadth-First Search (BFS)](Graph_Functions/BFS_Recursion)
-- [ ] Depth-First Search (DFS) (Iterative)
+- [x] [Depth-First Search (DFS) (Iterative)](Graph_Functions/DFS_Iterative)
 - [ ] Dijkstra's Shortest Path Algorithm
 - [ ] Bellman-Ford Algorithm
 - [x] [Kruskal’s Algorithm](Graph_Functions/Kruskal_s)
