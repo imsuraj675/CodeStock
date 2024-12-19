@@ -44,7 +44,7 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [Depth-First Search (DFS) (Recursive)](Graph_Functions/DFS_Recursion)
 - [x] [Breadth-First Search (BFS)](Graph_Functions/BFS_Recursion)
 - [ ] Depth-First Search (DFS) (Iterative)
-- [ ] Dijkstra's Shortest Path Algorithm
+- [x] [Dijkstra's Shortest Path Algorithm](Graph_Functions/Dijkstra_s)
 - [ ] Bellman-Ford Algorithm
 - [x] [Kruskal’s Algorithm](Graph_Functions/Kruskal_s)
 - [ ] Prim’s Algorithm
