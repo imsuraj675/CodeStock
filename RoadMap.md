@@ -30,7 +30,7 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [Sieve of Eratosthenes (upto 'n' numbers)](Number_Theory_Functions/Sieve_Of_Eratosthenes)
 - [x] [nthFibonacci](Number_Theory_Functions/nthFibonacci)
 - [ ] Prime Factorization
-- [ ] Get all Factors (return a Map)
+- [x] [Get all Factors (return a Map)](Number_Theory_Functions/Get_Factors)
 - [x] [GCD of 'a' and 'b' using Euclidean Algorithm](Number_Theory_Functions/GCD_Using_Euclidean_Algorithm)
 - [ ] LCM of 'a' and 'b'
 - [x] [Binary Exponentiation (with modulus)](Number_Theory_Functions/Binary_exponentiation_(with_modulus))
