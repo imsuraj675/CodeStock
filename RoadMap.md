@@ -57,5 +57,5 @@ These are fundamental algorithms and functions often used in competitive program
 
 ### 5. Miscellaneous
 - [x] [Fenwick Tree (Point Update, Range Query)](Miscellaneous_Functions/Fenwick_Tree)
-- [ ] Sparse Table (Min, Max, And, Or, Gcd, Lcm)
+- [x] Sparse Table (Min, Max, And, Or, Gcd, Lcm)
 - [ ] Segment Tree (Min and Max both, pass the function name as parameter in the class)
