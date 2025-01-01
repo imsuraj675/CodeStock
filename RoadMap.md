@@ -10,7 +10,7 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [Find Max-Min of Array](Array_Functions/Min_Max_Functions)
 - [ ] Prefix Array
 - [ ] Suffix Array
-- [ ] Finding Mex of Array (Smallest Positive integer which is not present in array)
+- [x] Finding Mex of Array (Smallest Positive integer which is not present in array)
 - [x] [Print 2D Matrix](Array_Functions/Print_2D_Matrix)
 - [x] [Binary Search](Array_Functions/Binary_Search)
 - [x] [Upper bound](Array_Functions/Upper_Bound)
