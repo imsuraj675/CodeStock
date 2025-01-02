@@ -24,6 +24,7 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [Generate all Substrings (Subsequences)](String_Functions/Subsequences) (2^n)
 - [ ] Generate all Permutation (n!)
 - [x] [Palindrome Check](String_Functions/Palindrome_Check)
+- [x] [Z_algorithm(pattern_check)](String_Functions/Z_algorithm(pattern_check))
 
 ### 3. Number Theory
 - [x] [Prime Check](Number_Theory_Functions/Prime_Check)
