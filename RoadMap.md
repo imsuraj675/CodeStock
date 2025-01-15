@@ -35,9 +35,9 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [GCD of 'a' and 'b' using Euclidean Algorithm](Number_Theory_Functions/GCD_Using_Euclidean_Algorithm)
 - [x] [LCM of 'a' and 'b'](Number_Theory_Functions/LCM_of_a_and_b)
 - [x] [Binary Exponentiation (with modulus)](Number_Theory_Functions/Binary_exponentiation_(with_modulus))
-- [ ] Get Factorial upto 'n' (with modulus) (return an array)
+- [x] [Get Factorial upto 'n' (with modulus)](Number_Theory_Functions/Factorial_array)
 - [x] [Get Inverse Factorial upto 'n' (with modulus) (return an array)](Number_Theory_Functions/computeInverseFactorials)
-- [ ] nPr (Permutation with modulus)
+- [x] nPr (Permutation with modulus)
 - [ ] nCr (Combination with modulus)
 
 
