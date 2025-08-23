@@ -2,7 +2,7 @@
 
 Welcome to the repository! This project aims to provide a collection of frequently used algorithms and functions in competitive programming (CP) and data structures and algorithms (DSA). We encourage you to contribute and improve the repository.
 
-## How to Contribute
+## How to Contribute to this repo
 
 ### Step 1: Fork the repository
 1. Fork this repository to your own GitHub account.
