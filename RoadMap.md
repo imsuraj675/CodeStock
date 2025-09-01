@@ -38,6 +38,7 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [Get Factorial upto 'n' (with modulus)](Number_Theory_Functions/Factorial_array)
 - [x] [Get Inverse Factorial upto 'n' (with modulus) (return an array)](Number_Theory_Functions/computeInverseFactorials)
 - [x] nPr (Permutation with modulus)
+- [x] [Chinese_Remainder_theorem](Number_Theory_Functions/Chinese_remainder_theorem)
 - [ ] nCr (Combination with modulus)
 
 
