@@ -8,7 +8,7 @@ These are fundamental algorithms and functions often used in competitive program
 - [x] [Reverse an Array (copy)](Array_Functions/Reverse_an_Array)
 - [x] [Reverse an Array (in place)](Array_Functions/Reversing_an_array(in_place))
 - [x] [Find Max-Min of Array](Array_Functions/Min_Max_Functions)
-- [ ] Prefix Array
+- [x] [Prefix Array](Array_Functions/Prefix_Array)
 - [ ] Suffix Array
 - [x] [Finding Mex of Array (Smallest Whole integer which is not present in array)](Array_Functions/Finding_Mex)
 - [x] [Print 2D Matrix](Array_Functions/Print_2D_Matrix)
